@@ -24,4 +24,4 @@ def string_methods():
     print(f"Reverso:{frase[6::-1]}")
     print(f"Formato: {nombre.lstrip().rstrip().title()} sabe {frase[0:6]}")
     print(multilinea.replace("    ",""))
-string_methods()
+#string_methods()

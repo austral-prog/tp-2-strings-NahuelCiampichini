@@ -10,3 +10,4 @@ def rectangle():
 
     print(f"Base: {int(base)}\nAltura: {int(altura)}\nArea: {area}\nPerimetro: {perimetro}")
 
+#rectangle()
