@@ -10,4 +10,4 @@ def names():
     print(nombre_completo.title())
     print(nombre_completo.upper())
     print(f"\t{nombre_completo.lower()}")
-#names()
+
