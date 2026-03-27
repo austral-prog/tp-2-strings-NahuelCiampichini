@@ -9,5 +9,3 @@ def rectangle():
     perimetro = 2 * int(base) + 2 * int(altura)
 
     print(f"Base: {int(base)}\nAltura: {int(altura)}\nArea: {area}\nPerimetro: {perimetro}")
-
-rectangle()
